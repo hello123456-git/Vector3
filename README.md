@@ -9,10 +9,10 @@
 
 Built to understand how `std::vector` works under the hood:
 
-- 🧠 **Manual memory management** — no STL containers used internally
-- 🔄 **Move semantics** — efficient resource transfer
-- ⚡ **Operator overloading** — `+`, `-`, `==`, `!=`, `[]`
-- 🧩 **Template metaprogramming** — works with any type
+- **Manual memory management** — no STL containers used internally
+- **Move semantics** — efficient resource transfer
+- **Operator overloading** — `+`, `-`, `==`, `!=`, `[]`
+- **Template metaprogramming** — works with any type
 
 **Header-only. No dependencies. Just include and go.**
 
